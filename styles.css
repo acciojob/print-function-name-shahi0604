@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
